@@ -1,6 +1,6 @@
 # Python-to-.exe
 Como Converter seu programa .py para .exe para Windows? bem, de forma bem simples a primeira coisa a se fazer é instalar a biblioteca do pyinstaller no seu ambiente.
-Detalhe, importante não precisa ter o python instalado na máquina para rodar o programa exe. =)
+Detalhe importante! não precisa ter o python instalado na máquina para rodar o programa exe. =)
 
 ## Passo 1:
 Abra o console(CMD ou Prompt no Anaconda) e digite: pip install pyinstaller
