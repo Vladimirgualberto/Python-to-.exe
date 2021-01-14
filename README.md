@@ -22,7 +22,7 @@ espere até que todo o processo seja completo e pronto agora temos duas pastas c
 
 Para então efetuar o debug do sistema, basta abrir o cmd e executar main.exe por lá =)
 
-Deixei um exemplo de código bem simples que utiliza interface gráfica com a biblioteca Tkinter, ele apenas abre uma tela de seleção de arquivo e depois exibe uma mensagem, pode ser facilmente utilizado para treinar o procedimento de converter arquivo .py para .exe
+Deixei um exemplo de código bem simples(InterfaceGUI.py) que utiliza interface gráfica com a biblioteca Tkinter, ele apenas abre uma tela de seleção de arquivo e depois exibe uma mensagem, pode ser facilmente utilizado para treinar o procedimento de converter arquivo .py para .exe
 
 
 É isso =)
