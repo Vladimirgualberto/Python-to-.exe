@@ -7,7 +7,7 @@ Abra o console(CMD ou Prompt no Anaconda) e digite: pip install pyinstaller
 
 ## Passo 2:
 Pegue os arquivos .py que compoem seu programa e movam para o diretório de instalação do Python na sua máquina: C:\Users\SeuUsuário\AppData\Local\Programs\Python\Python38-32\Scripts
-É claro que esse diretório pode mudar dependendo da instalação do Python na sua máquina, ah! eu tentei fazer esse procedimento direto no diretório de desenvolvimento, no meu caso eu uso o Anaconda, e o meu relato é que não deu certo, por isso que optei por mover os arquivos .py para o diretório do exe. do python conforme diretório mencinado acima.
+É claro que esse diretório pode mudar dependendo da instalação do Python na sua máquina. Ah! eu tentei fazer esse procedimento direto no diretório de desenvolvimento, no meu caso eu uso o Anaconda, e o meu relato é que não deu certo, por isso que optei por mover os arquivos .py para o diretório do exe. do python conforme diretório mencinado acima.
 
 ## Passo 3:
 Ok, temos agora o arquivo do seu programa .py no diretório da instalação do Python na sua máquina, navegue no prompt de comando até o diretório da instalação do Python em sua máquina, no Windows:
