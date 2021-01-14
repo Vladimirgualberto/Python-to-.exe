@@ -23,3 +23,4 @@ espere até que todo o processo seja completo e pronto agora temos duas pastas c
 Para então efetuar o debug do sistema, basta abrir o cmd e executar main.exe por lá =)
 
 
+
